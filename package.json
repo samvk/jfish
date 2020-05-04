@@ -74,6 +74,6 @@
     "stylelint-order": "^0.4.4",
     "url-loader": "^0.5.8",
     "webpack": "^3.0.0",
-    "webpack-dev-server": "^2.5.0"
+    "webpack-dev-server": "^3.1.11"
   }
 }
